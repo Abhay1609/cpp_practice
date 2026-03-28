@@ -28,6 +28,9 @@ int main(){
     //#TODO why we use enum class not only enum ====> Done
     //fav = 1;
    // Car fav_car = 1;
+   // added some dummy connmment
+   // actuall enum and enum class have basic difference as scope
+   // and conversion
     std::cout << "Hello"  << std::endl;
     return 0;
 }
