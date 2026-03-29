@@ -31,6 +31,12 @@ int main(){
    // added some dummy connmment
    // actuall enum and enum class have basic difference as scope
    // and conversion
+   //
+   // make place to cover all basic
+   // and learn more about it
+   //
+   // prative iit
+   //
     std::cout << "Hello"  << std::endl;
     return 0;
 }
