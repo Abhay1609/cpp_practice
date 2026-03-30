@@ -35,7 +35,11 @@ int main(){
    // make place to cover all basic
    // and learn more about it
    //
-   // prative iit
+   // prative ii
+   // studt about the data type and declearion 
+   // further study about char and int allign 
+   //
+   // cstdint limits t
    //
     std::cout << "Hello"  << std::endl;
     return 0;
