@@ -39,8 +39,12 @@ int main(){
    // studt about the data type and declearion 
    // further study about char and int allign 
    //
-   // cstdint limits t
+   // cstdint limits ti
    //
+   //
+   // stduy about tlm and fw and bw as blocking and non blocking path
+   //
+   // in axi understand about the attribute and identification of txn/
     std::cout << "Hello"  << std::endl;
     return 0;
 }
