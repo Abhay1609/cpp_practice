@@ -40,7 +40,8 @@ int main(){
    // further study about char and int allign 
    //
    // cstdint limits ti
-   //
+   //study more about pointer and auto keyword as assing intializer list 
+   //and also study about stringliter al raw string
    //
    // stduy about tlm and fw and bw as blocking and non blocking path
    //
