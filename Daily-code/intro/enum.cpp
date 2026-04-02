@@ -42,7 +42,9 @@ int main(){
    // cstdint limits ti
    //study more about pointer and auto keyword as assing intializer list 
    //and also study about stringliter al raw string
-   //
+   //stdyy aboit the message for non blocking and blocking
+   //get meaning of sysnc return from each txn
+   //study about basic opcode and snoo and caching
    // stduy about tlm and fw and bw as blocking and non blocking path
    //
    // in axi understand about the attribute and identification of txn/
