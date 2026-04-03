@@ -45,7 +45,15 @@ int main(){
    //stdyy aboit the message for non blocking and blocking
    //get meaning of sysnc return from each txn
    //study about basic opcode and snoo and caching
-   // stduy about tlm and fw and bw as blocking and non blocking path
+   study
+	   about
+	   pointer and 2 d array and how array is passed to function
+
+	   one dimension is not used in array 
+
+
+	   when passed to function
+	   uy about tlm and fw and bw as blocking and non blocking path
    //
    // in axi understand about the attribute and identification of txn/
     std::cout << "Hello"  << std::endl;
