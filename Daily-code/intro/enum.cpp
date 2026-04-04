@@ -39,7 +39,10 @@ int main(){
    // studt about the data type and declearion 
    // further study about char and int allign 
    //
-   // cstdint limits ti
+   // cstdint limits t
+   // stdu about the graphg and stringn
+   // stduy about ll1 htammer
+   // ati
    //study more about pointer and auto keyword as assing intializer list 
    //and also study about stringliter al raw string
    //stdyy aboit the message for non blocking and blocking
