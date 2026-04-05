@@ -42,7 +42,10 @@ int main(){
    // cstdint limits t
    // stdu about the graphg and stringn
    // stduy about ll1 htammer
-   // ati
+   // at
+   // sghort note of hc
+   // complier notes and dsa is done
+   // now dbms in starytt
    //study more about pointer and auto keyword as assing intializer list 
    //and also study about stringliter al raw string
    //stdyy aboit the message for non blocking and blocking
