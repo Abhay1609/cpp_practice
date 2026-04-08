@@ -49,7 +49,10 @@ int main(){
    // study about interview qurestion of axi and modeul implementation of axi 
    // start dbms and bit understiood
    // tommort sc
-   // study about pointers and multidimension pointer
+   // study about pointers 
+   // add about temporal decoupling 
+   //
+   // add about quantum keeperand multidimension pointer
    //
    // tommorow start odinigt
    //study more about pointer and auto keyword as assing intializer list 
